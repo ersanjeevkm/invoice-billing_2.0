@@ -30,4 +30,3 @@ NOTE :
 
 #**If you are running pyton 3.5+ check my another repository invoice-billing**
 
-# FOR ANY ASSISTANCE CONTACT ME VIA E-MAIL : er.sanjeev.au@gmail.com
